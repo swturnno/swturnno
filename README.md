@@ -30,7 +30,6 @@
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=swturnno&layout=compact&theme=tokyonight)](https://github.com/swturnno)
 
 ---
-![Visit Count](https://visitcount.itsvg.in/api?id=swturnno&icon=9&color=10)
 
 ## What do I bring to the table?
 
