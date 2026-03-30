@@ -22,11 +22,12 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,html,mysql,python&perline=7)
  
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swturnno&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=swturnno&theme=tokyonight&hide_border=false)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=swturnno&show_icons=true&theme=tokyonight)](https://github.com/swturnno)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swturnno&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats-two.vercel.app?user=swturnno&theme=tokyonight)](https://github.com/swturnno)
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=swturnno&layout=compact&theme=tokyonight)](https://github.com/swturnno)
 
 ---
 ![Visit Count](https://visitcount.itsvg.in/api?id=swturnno&icon=9&color=10)
@@ -42,4 +43,4 @@
 ---
 
 ## What's playing in my headphones?
-![Spotify Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=41swjyzjsljwhoq1hbomg7lq7)
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=41swjyzjsljwhoq1hbomg7lq7)
